@@ -1,5 +1,5 @@
 *.swp
-bin
+bin/webkit_server
 *.swo
 *~
 *.o
@@ -11,3 +11,4 @@ qrc_*
 moc_*.cpp
 .bundle
 pkg
+src/webkit_server
